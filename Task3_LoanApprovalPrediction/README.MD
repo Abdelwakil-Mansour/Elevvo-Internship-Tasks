@@ -36,5 +36,4 @@ Additionally, I experimented with **Orange Data Mining** to build a visual workf
 - `workflow/`: Orange Data Mining workflow file (.ows)  
 - `loan_approval_dataset.csv`: Dataset (optional or link in README)  
 
----
-🔗 *Part of my Elevvo Internship Projects*
+🔗Part of my [Elevvo](https://elevvo.tech/) Internship Projects
