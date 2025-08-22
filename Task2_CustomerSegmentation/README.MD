@@ -36,4 +36,4 @@ Working with **unlabeled mall customer data**, I applied clustering algorithms t
 - `dashboard/`: Power BI file for visualization  
 - `Mall_Customers`: Dataset (optional or link in README)  
 ---
-🔗 *Part of my Elevvo Internship Projects*
+🔗 *Part of my [Elevvo](https://elevvo.tech/) Internship Projects*
