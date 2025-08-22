@@ -37,4 +37,4 @@ It was completed as part of my **Elevvo Internship**.
 - `data/`: Dataset (optional or link in README)  
 
 ---
-🔗 *Part of my Elevvo Internship Projects*
+🔗 *Part of my [Elevvo](https://elevvo.tech/) Internship Projects*
