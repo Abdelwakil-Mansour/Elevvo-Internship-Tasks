@@ -48,4 +48,4 @@ The goal is to analyze sales patterns, engineer time-based features, and apply r
 - `Data/`: Dataset (optional or link in README)  
 
 ---
-🔗 *Part of my Elevvo Internship Projects*
+🔗 *Part of my [Elevvo](https://elevvo.tech/) Internship Projects*
