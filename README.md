@@ -7,10 +7,10 @@ Each task covers a different ML problem and demonstrates data processing, modeli
 ### Tasks Overview
 | Task | Description | Key Techniques / Models | Results / Notes |
 |------|-------------|-----------------------|----------------|
-| [Task 1: Student Score Prediction](https://github.com/MohamedElgohary918/Elevvo-Internship-Tasks/tree/main/Task%201%3A%20Student%20Score%20Prediction#readme) | Predict students' exam scores based on study hours | Linear Regression, Polynomial Regression | Polynomial Regression: MAE 0.27, R² 0.99 |
-| [Task 2: Customer Segmentation](https://github.com/MohamedElgohary918/Elevvo-Internship-Tasks/tree/main/Task2_CustomerSegmentation#readme) | Cluster mall customers into segments based on demographics and spending | K-Means, Silhouette Score, Power BI dashboard | 5 clusters: Cautious Wealthy, Moderate, Luxury Spenders, Impulsive, Budget-Conscious |
-| [Task 3: Loan Approval Prediction](https://github.com/MohamedElgohary918/Elevvo-Internship-Tasks/tree/main/Task3_LoanApprovalPrediction#readme) | Predict loan approval status | Logistic Regression, Decision Tree, KNN, Random Forest, Orange Data Mining workflow | Random Forest: 99.88% accuracy |
-| [Task 4: Sales Forecasting](https://github.com/MohamedElgohary918/Elevvo-Internship-Tasks/tree/main/Task%204%3A%20Sales%20Forecasting%20Description#readme) | Forecast future Walmart sales | Regression (Linear, Random Forest, XGBoost), ARIMA, Modified ARIMA, SARIMA | Forecasts visualized and compared with actual sales |
+| [Task 1: Student Score Prediction](https://github.com/Abdelwakil-Mansour/Elevvo-Internship-Tasks/tree/main/Task%201%3A%20Student%20Score%20Prediction#readme) | Predict students' exam scores based on study hours | Linear Regression, Polynomial Regression | Polynomial Regression: MAE 0.27, R² 0.99 |
+| [Task 2: Customer Segmentation](https://github.com/Abdelwakil-Mansour/Elevvo-Internship-Tasks/tree/main/Task2_CustomerSegmentation#readme) | Cluster mall customers into segments based on demographics and spending | K-Means, Silhouette Score, Power BI dashboard | 5 clusters: Cautious Wealthy, Moderate, Luxury Spenders, Impulsive, Budget-Conscious |
+| [Task 3: Loan Approval Prediction](https://github.com/Abdelwakil-Mansour/Elevvo-Internship-Tasks/tree/main/Task3_LoanApprovalPrediction#readme) | Predict loan approval status | Logistic Regression, Decision Tree, KNN, Random Forest, Orange Data Mining workflow | Random Forest: 99.88% accuracy |
+| [Task 4: Sales Forecasting](https://github.com/Abdelwakil-Mansour/Elevvo-Internship-Tasks/tree/main/Task%204%3A%20Sales%20Forecasting%20Description#readme) | Forecast future Walmart sales | Regression (Linear, Random Forest, XGBoost), ARIMA, Modified ARIMA, SARIMA | Forecasts visualized and compared with actual sales |
 
 ## 🛠️ Tools & Libraries
 - Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels  
@@ -37,5 +37,5 @@ Elevvo-Internship-Tasks/
 - Task 4 is focused on **time series forecasting**, while other tasks cover regression, classification, and clustering.
 
 ---
-*By Mohamed Fouad Elgohary — Elevvo Internship Projects*
+*By Abdelwakil Mansour — [Elevvo](https://elevvo.tech/) Internship Projects*
 
