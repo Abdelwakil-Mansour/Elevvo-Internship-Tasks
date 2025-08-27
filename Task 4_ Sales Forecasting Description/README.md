@@ -45,7 +45,7 @@ The goal is to analyze sales patterns, engineer time-based features, and apply r
 ## 📎 Files
 - `Walmart_Sales.ipynb`: Main notebook with forecasting workflow  
 - `Walmart Sales Forecasting Project.pdf`: Report summary of findings  
-- `Data/`: Dataset (optional or link in README)  
+- `Data/`: Dataset   
 
 ---
 🔗 *Part of my [Elevvo](https://elevvo.tech/) Internship Projects*
