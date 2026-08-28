@@ -1,6 +1,6 @@
 # Elevvo Internship Projects
 
-## 📌 Overview
+##  Overview
 This repository contains 4 Machine Learning projects completed as part of my **[Elevvo](https://elevvo.tech/) Internship**.  
 Each task covers a different ML problem and demonstrates data processing, modeling, evaluation, and visualization skills.
 
@@ -27,7 +27,7 @@ Elevvo-Internship-Tasks/
 └──Task4_SalesForecasting/
 
 ```
-## 🔗 Notes
+##  Notes
 - Datasets are not included if large; links to Kaggle datasets are provided in each task README.  
 - Each task folder contains: notebook(s), data (optional or sample), and any dashboards/workflows.  
 - Task 4 is focused on **time series forecasting**, while other tasks cover regression, classification, and clustering.
