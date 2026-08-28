@@ -12,12 +12,12 @@ Each task covers a different ML problem and demonstrates data processing, modeli
 | [3.Loan Approval Prediction](https://github.com/Abdelwakil-Mansour/Elevvo-Internship-Tasks/tree/main/Task3_LoanApprovalPrediction#readme) | Predict loan approval status | Logistic Regression, Decision Tree, KNN, Random Forest, Orange Data Mining workflow | Random Forest: 99.88% accuracy |
 | [4.Sales Forecasting](https://github.com/Abdelwakil-Mansour/Elevvo-Internship-Tasks/tree/main/Task%204%3A%20Sales%20Forecasting%20Description#readme) | Forecast future Walmart sales | Regression (Linear, Random Forest, XGBoost), ARIMA, Modified ARIMA, SARIMA | Forecasts visualized and compared with actual sales |
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 - Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels  
 - Orange Data Mining (Task 3)  
 - Power BI (Task 2 Dashboard)  
 
-## 📂 Repository Structure
+##  Repository Structure
 ```
 Elevvo-Internship-Tasks/
 ├──README.md 
